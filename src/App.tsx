@@ -57,7 +57,7 @@ export const App = () => {
 
           <div>
             <Typography.Text view="secondary-medium" tag="p" defaultMargins={false}>
-              Подойдет
+              Подойдёт
             </Typography.Text>
             <Typography.Text view="primary-medium" weight="bold" tag="p" defaultMargins={false}>
               Для долгосрочных накоплений
@@ -92,7 +92,7 @@ export const App = () => {
 
           <div>
             <Typography.Text view="secondary-medium" tag="p" defaultMargins={false}>
-              Подойдет
+              Подойдёт
             </Typography.Text>
             <Typography.Text view="primary-medium" weight="bold" tag="p" defaultMargins={false}>
               Для быстрых накоплений
